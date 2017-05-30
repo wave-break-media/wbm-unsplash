@@ -25,3 +25,11 @@ And here are some basic modern front-end technologies you should learn that is h
 * [ES2015+](https://babeljs.io/docs/learn-es2015/)
 * [Webpack](https://webpack.github.io/)
 * [Babel](https://babeljs.io/)
+
+### Setup
+
+Put your own unsplash keys on src/actions/fetchPage.js
+
+### Running
+
+See package.json for the different start and build scripts.
