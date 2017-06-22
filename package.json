@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "/freeimages/unsplash",
-  "dwSdkDev": "https://s3-eu-west-1.amazonaws.com/composer.integrations.test/v1.0/",
+  "dwSdkDev": "https://static.designwizard.com/js/v1.0/",
   "dwSdkProd": "https://static.designwizard.com/js/v1.0/",
   "devDependencies": {
     "autoprefixer": "6.5.1",
