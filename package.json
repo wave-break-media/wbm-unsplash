@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "/freeimages/unsplash",
   "dwSdkDev": "https://s3-eu-west-1.amazonaws.com/composer.integrations.test/v1.0/",
-  "dwSdkProd": "https://s3-eu-west-1.amazonaws.com/composer.integrations/v1.0/",
+  "dwSdkProd": "https://static.designwizard.com/js/v1.0/",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
